@@ -1,4 +1,4 @@
-import 'package:wisata_candi/models/candi.dart';
+import 'package:project_wisata_candi_kennan_h/models/candi.dart';
 
 var candiList = [
   Candi(
