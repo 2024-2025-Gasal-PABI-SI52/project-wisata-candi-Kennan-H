@@ -114,7 +114,10 @@ class DetailScreen extends StatelessWidget{
                   ),
                   Text(': ${candi.type}')
                 ],),
-
+                //pemisah
+                const SizedBox(height: 16,),
+                Divider(color: Colors.deepPurple.shade100,),
+                const SizedBox(height: 16,)
                 //info Bawah
               ],
             ),
